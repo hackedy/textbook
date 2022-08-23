@@ -425,8 +425,8 @@ Second, follow one of these steps if you are on Windows or Mac:
   <sub>&gt;</sub><sup>&lt;</sup> then click it, and choose "New WSL Window" from
   the Command Palette that opens.
 
-- **Mac only:** Open the Command Palette and type "shell command" to find the
-  "Shell Command: Install 'code' command in PATH" command. Run it.
+- **Mac only:** Open the Command Palette (Cmd+Shift+P) and type "shell command"
+  to find the "Shell Command: Install 'code' command in PATH" command. Run it.
 
 Third, regardless of your OS, close any open terminals — or just logout or
 reboot — to let the new path settings take effect, so that you will later be
